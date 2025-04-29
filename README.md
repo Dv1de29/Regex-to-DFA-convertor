@@ -4,6 +4,11 @@ This project implements a full pipeline that converts **regular expressions** in
 
 ## 📌 Overview
 
+For running the script you should use this command in terminal:
+```
+py regex.py json_file.json
+```
+
 The conversion process consists of the following stages:
 
 1. **Regex → Postfix Notation**
